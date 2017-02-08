@@ -8,6 +8,9 @@ Tuesday, February 7th, 2017
 
 * Attendance:
 	* Jakson Kallio
+	* Nolan Brenhaug
+	* Cally Sibben
+	* Wes Smrcka
 
 ## Topics
 * Welcome to Crypto Club
