@@ -11,6 +11,11 @@ Tuesday, February 7th, 2017
 	* Nolan Brenhaug
 	* Cally Sibben
 	* Wes Smrcka
+	* Evan Composto
+	* Craig Rudrud
+	* Parker
+	* Joe
+	* Cody
 
 ## Topics
 * Welcome to Crypto Club
