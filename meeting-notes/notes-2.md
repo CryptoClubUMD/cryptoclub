@@ -18,10 +18,10 @@ Friday, February 16th, 2017
 	* Say names, majors, favorite programming language
 2. Anything cool happen over the last week in the crypto world?
 3. Password Generation
-	* Unfortunately, we live in an inperfect world that uses passwords.
+	* Unfortunately, we live in an imperfect world that uses passwords.
 		* Theoretically, we could just sign/encrypt all of our own traffic with keys built into the browser, but we simply didn't develop that way.
 		* We can still get pretty good security with strong passwords.
-	* No such thing as pure randomness... there's alwasys a seed.
+	* No such thing as pure randomness... there's always a seed.
 		* The human mind is the worst random number generator out there.
 	* Brainflayer: password cracker that thinks like a human.
 	* The same password on multiple sites is dangerous.
