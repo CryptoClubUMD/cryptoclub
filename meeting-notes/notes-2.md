@@ -2,7 +2,7 @@
 
 ## Meeting Details
 
-Friday, February 16th, 2017
+Friday, February 17th, 2017
 
 19:00, Kirby Student Center - Underground
 
