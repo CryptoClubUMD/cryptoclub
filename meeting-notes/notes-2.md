@@ -13,6 +13,7 @@ Friday, February 17th, 2017
 
 ## Topics
 * Crypto Club outreach
+* IDE vs Manual Editing of Code
 * Passwords
 
 ## Schedule
