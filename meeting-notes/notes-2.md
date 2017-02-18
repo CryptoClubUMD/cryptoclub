@@ -7,7 +7,9 @@ Friday, February 17th, 2017
 19:00, Kirby Student Center - Underground
 
 * Attendance:
-	* Jakson Kallio
+	* Jakson
+	* Craig
+	* Cally
 
 ## Topics
 * Crypto Club outreach
