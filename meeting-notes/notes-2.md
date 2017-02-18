@@ -23,7 +23,7 @@ Friday, February 17th, 2017
 		* We can still get pretty good security with strong passwords.
 	* No such thing as pure randomness... there's always a seed.
 		* The human mind is the worst random number generator out there.
-	* Brainflayer: password cracker that thinks like a human.
+	* Brain Flayer: password cracker that thinks like a human.
 	* The same password on multiple sites is dangerous.
 		* A lot of websites don't seed their passwords in their database, meaning the cryptographic hash is the same.
 			* More susceptible to rainbow tables.
