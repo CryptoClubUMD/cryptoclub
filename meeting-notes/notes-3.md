@@ -9,7 +9,7 @@
 Kirby Student Center - Underground
 
 ### Attendance:
-	* Jakson
+* Jakson
 
 ## Topics
 * Crypto Club outreach
