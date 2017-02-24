@@ -9,7 +9,11 @@
 Kirby Student Center - Underground
 
 ### Attendance:
-* Jakson
+* Jakson K.
+* Craig R.
+* Evan C.
+* Nolan B.
+* Cally S.
 
 ## Topics
 * Crypto Club outreach
