@@ -20,6 +20,12 @@ Kirby Student Center - Underground
 1. Any new people this week?
 	* Say names, majors, favorite programming language
 2. Anything cool happen over the last week in the crypto world?
+	* [SHA-1 broken](http://shattered.io/)
+		* Theoretically broken since 2005.
+		* Two files can hash to the digital signature.
+		* A lot of software still uses SHA-1.
+		* Alternatives: SHA-2 and SHA-3.
+	* Bitcoin very close to all time high price. (currently 1,183 USD)
 3. Outreach
 	* Posters?
 		* I started a rough draft in Inkscape
@@ -36,6 +42,7 @@ Kirby Student Center - Underground
 		* Document syncing, encrypted, uses streamlined versioning system
 		* Mecono, free/unlimited decentralized internet access
 		* Any already established open sources projects are on the table, too.
-5. Quick opinion-- prefer Slack or Discord for communication? If no one cares, just stick with Slack.
-6. Reminder that the floor for weekly meetings is totally open, and anyone can add to the meeting agenda using pull request or by messaging me on Slack.
-7. Dismissal
+5. New "CryptoClubUMD" organization on GitHub.
+6. Quick opinion-- prefer Slack or Discord for communication? If no one cares, just stick with Slack.
+7. Reminder that the floor for weekly meetings is totally open, and anyone can add to the meeting agenda using pull request or by messaging me on Slack.
+8. Dismissal
