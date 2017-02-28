@@ -8,7 +8,7 @@
 ### Where
 Kirby Student Center - Underground
 
-### Attendance:
+### Attendance
 * Jakson K.
 
 ## Topics
