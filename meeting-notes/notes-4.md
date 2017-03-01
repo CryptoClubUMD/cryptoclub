@@ -20,6 +20,7 @@ Kirby Student Center - Underground
 1. Any new people this week?
 	* Say names, majors, favorite programming language
 2. Anything cool happen over the last week in the crypto world?
+	* AWS down temporarily today.
 3. Poster I've been working on
 	* Tried to include some specific keywords like "Linux", "Tor", and "Bitcoin" to catch people's attention.
 		* Should I instead make general words like "encryption", "security", etc. the highlight?
