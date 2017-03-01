@@ -28,7 +28,10 @@ Kirby Student Center - Underground
 	* Project name? Should probably start thinking about it.
 	* Languages to use
 		* Go back-end?
+			* Database system
+			* What should it be hosted on?
 		* C++ front-end?
+			* GUI or keep it CLI?
 	* Very basic roadmap
 		* What timescale are we looking at?
 		* What's our first objective?
