@@ -10,6 +10,10 @@ Kirby Student Center - Underground
 
 ### Attendance
 * Jakson K.
+* Craig R.
+* Cally S.
+* Nolan B.
+* Parker A.
 
 ## Topics
 * Crypto news
