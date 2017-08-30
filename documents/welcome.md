@@ -1,4 +1,4 @@
-# What is Cryptoclub?
+# What is Crypto Club?
 We're a group at UMD interested in discussing revolutionary software, cryptocurrency, encryption, computer security, decentralization, and open source software.
 
 Anyone that is interested in such topics are welcome! We have no experience level, major, year, or service hour requirements.
