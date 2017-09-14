@@ -8,9 +8,6 @@
 ### Where
 Kirby Student Center - Underground
 
-### Attendance
-* Jakson K.
-
 ## Topics
 * Crypto news
 * Document sync project status
