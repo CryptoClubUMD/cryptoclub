@@ -9,4 +9,5 @@ During the first meeting, we will discuss some crypto news as well as look into 
 One important thing to note is that we will no longer use the Slack as the *main* source of information and news. Instead, we will be using an *emailing list*. (If you are receiving this email, you are already on the list.) The Slack will now become the Crypto Club lounge for general discussion.
 
 I hope to see you there!
-- Jakson
+
+-Jakson
