@@ -7,7 +7,12 @@ Wednesday, September 20th, 2017
 18:30, Kirby Student Center
 
 * Attendance:
-	* Jakson K.
+	* Jakson
+	* Naseem
+	* Emily
+	* Trevor
+	* Wes
+	* Evan
 
 ## Topics
 * About Club
