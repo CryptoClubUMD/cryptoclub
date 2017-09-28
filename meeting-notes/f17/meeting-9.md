@@ -8,6 +8,10 @@ Thursday, September 28th, 2017
 
 * Attendance:
 	* Jakson
+	* Naseem
+	* Emily
+	* Wes
+	* Evan
 
 ## Topics
 * Club Collaborative Project
