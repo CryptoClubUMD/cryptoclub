@@ -29,6 +29,7 @@ Thursday, September 28th, 2017
 3. Does law enforcement have the right to use cell phone location history in court without a warrant?
 	* [Source](https://motherboard.vice.com/en_us/article/59zq5x/scotus-cell-location-privacy-op-ed)
 4. Club collaborative project?
+	* See [our project page](https://github.com/CryptoClubUMD/cryptoclub/projects/1)
 	* End/End Encrypted IM app
 		* No good apps exist that serve this purpose! Signal and telegram require phone numbers or SMS.
 		* Simple, free, secure. No SMS/phone number required.
