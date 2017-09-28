@@ -4,7 +4,7 @@ Crypto Club is a group at UMD interested in discussing interesting software, cry
 Anyone that is interested in technology regarding open source, cryptography, or computer security is welcome! We have no major, year level, or participation hour requirements.
 
 ## Meetings
-We typically meet on Tuesdays at 6:30pm.
+We typically meet on Thursdays at 6:30pm.
 
 ## Want to join or are interested to learn more?
 Our club doesn't have a strict registration process, members can simply subscribe to the emailing list obligation-free to see if they are interested, and can attend the meetings they wish to. To start receiving Crypto Club emails, just shoot me a message at jakson(at)protonmail.com with your preferred email address(es).
