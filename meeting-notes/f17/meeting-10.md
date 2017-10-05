@@ -7,7 +7,7 @@ Thursday, October 5th, 2017
 18:30, Kirby Underground
 
 * Attendance:
-	* Jakson
+	* Jakson K
 
 ## Topics
 * Posters
