@@ -7,7 +7,10 @@ Thursday, October 12th, 2017
 6:30 PM (to 8:00 PM at latest), KAML 470 (A study room on top floor of library)
 
 * Attendance:
-	* Jakson K
+	* Jakson
+	* Emily
+	* Naseem
+	* Evan
 
 ## Topics
 * Outreach
