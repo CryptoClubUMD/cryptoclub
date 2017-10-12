@@ -34,7 +34,10 @@ Thursday, October 12th, 2017
 	* Naseem
 	* Jakson
 3. Twitter account?
-4. Crypto sphere news
+4. Bitcoin insane price rise
+	* All time high
+	* Nearly $5400
+	* Up $400 in 24 hours
 5. Encrypted messaging project
 	* Roles/skillsets
 	* Want to start designing?
