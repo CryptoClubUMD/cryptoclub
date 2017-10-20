@@ -8,6 +8,9 @@ Thursday, October 19th, 2017
 
 * Attendance:
 	* Jakson
+	* Naseem
+	* Emily
+	* Sourya
 
 ## Topics
 * News
