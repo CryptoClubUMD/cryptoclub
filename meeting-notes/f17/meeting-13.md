@@ -15,3 +15,7 @@ Monday, November 6th, 2017
 * News
 
 ## Schedule
+1. Any news? Didn't have a chance to look at the UMD security newsletter.
+2. Bitcoin price
+3. GitHub workshop!
+4. Do we have enough people to start the encrypted messenger?
