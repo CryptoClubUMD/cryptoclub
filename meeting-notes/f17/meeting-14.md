@@ -2,7 +2,7 @@
 
 ## Meeting Details
 
-Monday, November 16th, 2017
+Thursday, November 16th, 2017
 
 6:30-8:00 PM, KAML 470 (top floor, library)
 
