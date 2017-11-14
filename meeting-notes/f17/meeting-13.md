@@ -8,6 +8,8 @@ Monday, November 6th, 2017
 
 * Attendance:
 	* Jakson K
+	* Naseem
+	* Emily
 
 ## Topics
 * Encrypted Messenger
