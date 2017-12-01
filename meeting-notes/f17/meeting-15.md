@@ -7,6 +7,9 @@ Thursday, November 30th, 2017
 
 * Attendance:
 	* Jakson K
+	* Emily
+	* Parker
+	* Evan
 
 ## Topics
 * Encrypted Messenger
